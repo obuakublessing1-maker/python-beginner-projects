@@ -6,7 +6,10 @@ This repository contains beginner level data analysis projects using:
 - Matplotlib
 
 #Project Included
+
 -Expense Tracker Analysis
+
 -Identifies highest spending
+
 - Visualizes category spending
 
